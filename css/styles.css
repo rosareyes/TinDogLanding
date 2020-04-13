@@ -164,5 +164,6 @@ h1, h2, h3 {
     position: static;
     transform: rotate(0);
     width: 70%;
+    text-align: center;
   }
 }
