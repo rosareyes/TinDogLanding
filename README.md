@@ -1,2 +1,1 @@
-# TinDogLanding
-TinDog App Landing Page (Bootstrap practice)
+TinDog Starting Files
