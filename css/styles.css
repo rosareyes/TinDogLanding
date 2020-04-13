@@ -155,7 +155,7 @@ h1, h2, h3 {
   margin: 2% 5%;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 1028px) {
 
   #title {
     text-align: center;
