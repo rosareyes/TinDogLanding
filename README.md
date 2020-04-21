@@ -1,1 +1,2 @@
-TinDog Starting Files
+TinDog - Landing Page (Bootstrap based)
+Responsive.
